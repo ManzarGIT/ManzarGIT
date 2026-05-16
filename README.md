@@ -19,7 +19,7 @@ I'm a **Full-Stack Developer** and **Data Analyst** who loves turning complex pr
 - 📱 Built **mobile applications** with Flutter & Android Studio
 - 📊 Experienced in **data analysis, visualization & business intelligence**
 - 🤖 Using **prompt engineering** to build smarter, faster
-- 📍 Based in **Bihar, India**
+- 📍 Based in **Banglore, India**
 
 ---
 
