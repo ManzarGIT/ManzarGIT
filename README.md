@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+%7C+Data+Analyst+%7C+Mobile+Dev;Building+smart+products+with+code+%2B+data+%2B+AI;Crafting+ideas+into+reality+%E2%80%94+one+commit+at+a+time." alt="Typing SVG" />
 </p>
 
-<h1 align="center">Hi there 👋, I'm Manzar Ansari</h1>
+<h1 align="center">Hi there 👋, I'm Manzar Ansari and here my portfolio link <a>https://portfolio-latest-delta-rouge.vercel.app/</a> </h1>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ManzarGIT&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
