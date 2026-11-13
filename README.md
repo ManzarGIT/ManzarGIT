@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+%7C+Data+Analyst+%7C+Mobile+Dev;Building+smart+products+with+code+%2B+data+%2B+AI;Crafting+ideas+into+reality+%E2%80%94+one+commit+at+a+time." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+%7C+Data+Analyst+%7C+Agentic+AI;Building+smart+products+with+code+%2B+data+%2B+AI;Crafting+ideas+into+reality+%E2%80%94+one+commit+at+a+time." alt="Typing SVG" />
 </p>
 
 <h1 align="center">Hi there 👋, I'm Manzar Ansari and here my portfolio link <a href="https://portfolio-latest-delta-rouge.vercel.app/">Visit my portflio</a> </h1>
